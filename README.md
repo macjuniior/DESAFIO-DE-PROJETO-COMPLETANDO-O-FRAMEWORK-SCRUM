@@ -7,7 +7,7 @@ Repositório desenvolvido como entrega do desafio de projeto da **Digital Innova
 ## 🔗 Acessar Entregáveis
 
 * 🎨 **Quadro Interativo (Miro):** [Visualizar mapeamento do Scrum Framework](https://miro.com/app/board/uXjVEJqZ-Go=/?share_link_id=587800655568)
-* 📄 **Estudo de Caso Completo (PDF):** [Ler análise crítica da adoção do Scrum na Salesforce.com](./analise_scrum_salesforce.pdf) *(ajuste o nome do arquivo PDF se necessário)*
+* 📄 **Estudo de Caso Completo (PDF):** [Ler análise crítica da adoção do Scrum na Salesforce.com](https://github.com/macjuniior/analise-critica-scrum) 
 
 ---
 
